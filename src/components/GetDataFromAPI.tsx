@@ -8,7 +8,7 @@ export default function GetDataFromAPI() {
     const [products,SetProducts] = useState<IProducts[]>([])
 
         const getData = ()=>{
-        axios.get<Product[]>('http://medieinstitutet-wie-products.azurewebsites.net/api/products')
+        axios.get<Product[]>('https://medieinstitutet-wie-products.azurewebsites.net/api/products')
         .then((response)=>{
            let productsFromAPI = response.data.map((product:Product)=>{
                return new Product(product.id,product.name,product.price,product.imageUrl,product.year);
