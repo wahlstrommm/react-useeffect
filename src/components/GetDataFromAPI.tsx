@@ -22,7 +22,7 @@ export default function GetDataFromAPI() {
         getData();
     },[]);
     let list = products.map((product,i)=>{
-        return (<div className='prodContainer'><ul> <li key={i}><img src={product.imageUrl} className="imgContainer" alt={product.name} /> <br /> ID:{product.id} <br /> Namn: {product.name} <br /> Pris:{product.price} <br /> År: {product.year} <br /><br /> </li></ul></div>)
+        return (<div className='prodContainer'><ul><img src={product.imageUrl} className="imgContainer" alt={product.name} />  <li key={i}><br /> ID:{product.id} <br /> Namn: {product.name} <br /> Pris:{product.price} <br /> År: {product.year} <br /><br /> </li></ul></div>)
     })
     
   return (<>
