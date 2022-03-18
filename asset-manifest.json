@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-useeffec/static/css/main.a8dc3d2e.css",
-    "main.js": "/react-useeffec/static/js/main.115fec7c.js",
-    "static/js/787.0f62393b.chunk.js": "/react-useeffec/static/js/787.0f62393b.chunk.js",
-    "index.html": "/react-useeffec/index.html",
-    "main.a8dc3d2e.css.map": "/react-useeffec/static/css/main.a8dc3d2e.css.map",
-    "main.115fec7c.js.map": "/react-useeffec/static/js/main.115fec7c.js.map",
-    "787.0f62393b.chunk.js.map": "/react-useeffec/static/js/787.0f62393b.chunk.js.map"
+    "main.css": "/react-useeffect/static/css/main.a8dc3d2e.css",
+    "main.js": "/react-useeffect/static/js/main.5053a7bf.js",
+    "static/js/787.0f62393b.chunk.js": "/react-useeffect/static/js/787.0f62393b.chunk.js",
+    "index.html": "/react-useeffect/index.html",
+    "main.a8dc3d2e.css.map": "/react-useeffect/static/css/main.a8dc3d2e.css.map",
+    "main.5053a7bf.js.map": "/react-useeffect/static/js/main.5053a7bf.js.map",
+    "787.0f62393b.chunk.js.map": "/react-useeffect/static/js/787.0f62393b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a8dc3d2e.css",
-    "static/js/main.115fec7c.js"
+    "static/js/main.5053a7bf.js"
   ]
 }
