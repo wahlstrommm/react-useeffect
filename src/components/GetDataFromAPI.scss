@@ -1,0 +1,31 @@
+ul{
+    text-decoration: none;
+    li{
+        list-style: none;
+    }
+    
+}
+.prodContainer{
+    background-color: rgba(128, 128, 128, 0.503);
+    width: 300px;
+    height: 400px;
+    text-align: center;
+    border-radius: 10px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+h1{
+    text-align: center;
+}
+.imgContainer{
+    top: 10px;
+    height: 200px;
+    position: relative;
+    left: 0px;
+    border-radius: 10px;
+}
